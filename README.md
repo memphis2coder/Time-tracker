@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //////////// NOTES //////////////////
 1. install react-router-dom
 2. install node-sass
@@ -73,3 +74,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+Time Tracking site using React.
+>>>>>>> c7c83b2aff623ba63c762a9428fd1056f6fd5217
